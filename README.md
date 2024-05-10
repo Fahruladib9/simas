@@ -3,7 +3,8 @@
 ## About
 
 Sistem informasi keuangan masjid merupakan sebuah web yang dibangun untuk mengatur keuangan masjid, sistem ini dibangun dengan menggunakan framework [Codeigniter 4](https://www.codeigniter.com/) PHP v.8.3.6
-[Demo](https://simasdaruttaqwa.000webhostapp.com/)
+
+### [Demo](https://simasdaruttaqwa.000webhostapp.com/)
 
 ## Setup
 
